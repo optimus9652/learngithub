@@ -1,3 +1,8 @@
+class solution {
+    public solution() {
+        
+    }
+}
 public class test1 {
     public static void main(String[] args) {
         int count1 = 0;
