@@ -7,15 +7,18 @@ class solution3 {
     public void donot() {
         return "Hello, world";
     }
-    public String do1() {
+    public String do4() {
         System.out.println("Hello");
-        for(int i = 0;i < 20;i++) {
+
+        for(int i = 0;i < 40;i++) {
+
+        
 
         }
         return "Hello, world";
     }
-    public String dot5() {
-        return "Hello, World";
+    public String dot6() {
+        return "hellop, world";
     }
    
 }
