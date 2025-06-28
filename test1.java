@@ -4,8 +4,14 @@ class solution3 {
     public solution() {
     }
     public String do1() {
-        System.out.println("Hello, world");
-        return "Hello, world"
+        System.out.println("Hello");
+        for(int i = 0;i < 10;i++) {
+
+        }
+        return "Hello, world";
+    }
+    public String dot() {
+        return "helo";
     }
    
 }
