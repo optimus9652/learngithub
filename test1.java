@@ -65,6 +65,7 @@ class solution3 {
         }
         return "Hello, world";
     }
+
     public String dot6() {
 
         return "hellop, world this will be so fun";
@@ -72,6 +73,7 @@ class solution3 {
         return "hellop, world";
 
     }
+
    
 }
 public class test1 {
