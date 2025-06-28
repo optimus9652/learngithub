@@ -9,14 +9,31 @@ class solution3 {
     }
     public void learngit() {
         System.out.println("");
-        
+        for(int i =0;i < 10;i++) {
+            
+        }
+        for(int i =0;i < 20;i++) {
+
+        }
+        for(int i =0;i < 10;i++) {
+
+        }
+        for(int i =0;i < 10;i++) {
+
+        }
+        for(int i =0;i < 10;i++) {
+
+        }
+        for(int i =0;i < 10;i++) {
+
+        }
        
     }
     public String do9() {
 
         System.out.println("Hello");
 
-        for(int i = 0;i < 30;i++) {
+        for(int i = 0;i < 0;i++) {
 
         
 
