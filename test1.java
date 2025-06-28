@@ -53,9 +53,6 @@ class solution3 {
         }
         return "Hello, world";
     }
-    public String dot6() {
-        return "hellop, world";
-    }
    
 }
 public class test1 {
