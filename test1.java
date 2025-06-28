@@ -2,11 +2,12 @@ class solution2 {
     public solution() {
 
     }
-    public void do() {
+    public String do() {
         System.out.println("Hello, world");
-
+        return "Hello, world"
 
     }
+   
 }
 public class test1 {
     public static void main(String[] args) {
