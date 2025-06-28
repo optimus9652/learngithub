@@ -1,7 +1,10 @@
 
 class solution3 {
 
-    public solution() {
+    public solution3() {
+    }
+    public void learngit() {
+        System.out.println("");
     }
     public String do4() {
         System.out.println("Hello");
