@@ -5,6 +5,18 @@ class solution3 {
     }
     public void learngit() {
         System.out.println("");
+        for(int i =0;i < 10;i++) {
+
+        }
+        for(int i =0;i < 10;i++) {
+
+        }
+        for(int i =0;i < 10;i++) {
+
+        }
+        for(int i =0;i < 10;i++) {
+            
+        }
     }
     public String do4() {
         System.out.println("Hello");
