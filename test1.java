@@ -1,40 +1,17 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> c49b36da9507df6c93e5139d2d3930b93aac1880
 class solution3 {
     solution3 solution;
     public solution3() {
         solution = new solution3();
-        for(int i = 0;i < 10;i++) {
-            
-        }
-        for(int i =0;i < 10;i++) {
-
-        }
-        for(int i =0;i < 10;i++) {
-
-        }
-        for(int i =0;i < 10;i++) {
-
-        }
-        for(int i =0;i < 10;i++) {
-
-        }
-        for(int i =0;i < 10;i++) {
-
-        }
+       
     }
     public void learngit() {
         System.out.println("");
         for(int i =0;i < 10;i++) {
             
         }
-<<<<<<< HEAD
+
         for(int i =0;i < 10;i++) {
-=======
-        for(int i =0;i < 20;i++) {
->>>>>>> c49b36da9507df6c93e5139d2d3930b93aac1880
+
 
         }
         for(int i =0;i < 10;i++) {
@@ -54,11 +31,9 @@ class solution3 {
     public String do5() {
         System.out.println("Hello");
 
-<<<<<<< HEAD
+
         for(int i = 0;i < 40;i++) {
-=======
-        for(int i = 0;i < 0;i++) {
->>>>>>> c49b36da9507df6c93e5139d2d3930b93aac1880
+
 
         
 
@@ -90,7 +65,4 @@ public class test1 {
             System.out.println(11);
         }
     }
-<<<<<<< HEAD
 }
-=======
->>>>>>> c49b36da9507df6c93e5139d2d3930b93aac1880
