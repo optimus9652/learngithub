@@ -1,7 +1,11 @@
 
 class solution3 {
 
-    public solution() {
+    public solution3() {
+    }
+
+    public void donot() {
+        return "Hello, world";
     }
     public String do1() {
         System.out.println("Hello");
