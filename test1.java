@@ -5,13 +5,13 @@ class solution3 {
     }
     public String do1() {
         System.out.println("Hello");
-        for(int i = 0;i < 10;i++) {
+        for(int i = 0;i < 20;i++) {
 
         }
         return "Hello, world";
     }
-    public String dot4() {
-        return "hellop, world";
+    public String dot5() {
+        return "Hello, World";
     }
    
 }
