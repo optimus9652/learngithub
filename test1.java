@@ -1,7 +1,11 @@
 
 class solution3 {
-
+    solution3 solution;
     public solution3() {
+        solution = new solution3();
+        for(int i = 0;i < 10;i++) {
+            
+        }
     }
 
     public void donot() {
