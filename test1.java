@@ -2,6 +2,9 @@ class solution {
     public solution() {
         
     }
+    public void do() {
+        System.out.println("Hello, world");
+    }
 }
 public class test1 {
     public static void main(String[] args) {
