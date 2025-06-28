@@ -1,4 +1,6 @@
-class solution2 {
+
+class solution3 {
+
     public solution() {
 
     }
