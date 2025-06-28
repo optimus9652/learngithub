@@ -1,9 +1,11 @@
-class solution1 {
+class solution2 {
     public solution() {
 
     }
     public void do() {
         System.out.println("Hello, world");
+
+
     }
 }
 public class test1 {
