@@ -1,6 +1,6 @@
-class solution {
+class solution1 {
     public solution() {
-        
+
     }
 }
 public class test1 {
