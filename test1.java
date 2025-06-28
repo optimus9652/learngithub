@@ -33,7 +33,7 @@ class solution3 {
 
         System.out.println("Hello");
 
-        for(int i = 0;i < 40;i++) {
+        for(int i = 0;i < 30;i++) {
 
         
 
