@@ -1,5 +1,12 @@
+
 class solution3 {
+
     public solution() {
+
+    }
+    public void do() {
+        System.out.println("Hello, world");
+
 
     }
 }
