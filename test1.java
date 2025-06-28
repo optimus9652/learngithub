@@ -1,7 +1,11 @@
 
 class solution3 {
-
+    solution3 solution;
     public solution3() {
+        solution = new solution3();
+        for(int i = 0;i < 10;i++) {
+            
+        }
     }
     public void learngit() {
         System.out.println("");
@@ -26,6 +30,7 @@ class solution3 {
        
     }
     public String do9() {
+
         System.out.println("Hello");
 
         for(int i = 0;i < 40;i++) {
