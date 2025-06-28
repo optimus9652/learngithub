@@ -5,7 +5,10 @@ class solution3 {
     }
     public String do4() {
         System.out.println("Hello");
+
         for(int i = 0;i < 40;i++) {
+
+        
 
         }
         return "Hello, world";
