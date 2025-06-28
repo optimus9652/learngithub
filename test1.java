@@ -6,5 +6,10 @@ public class test1 {
             multiply *= multiply;
         }
         System.out.println(multiply);
+
+        int count = 0;
+        for(int i = 0;i < 10;i++) {
+            System.out.println(10);
+        }
     }
 }
