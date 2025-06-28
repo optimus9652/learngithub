@@ -7,9 +7,9 @@ class solution3 {
             
         }
     }
-
-    public void donot() {
-        return "Hello, world";
+    public void learngit() {
+        System.out.println("");
+       
     }
     public String do4() {
         System.out.println("Hello");
