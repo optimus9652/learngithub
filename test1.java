@@ -1,4 +1,3 @@
-
 class solution3 {
     solution3 solution;
     public solution3() {
@@ -73,4 +72,3 @@ public class test1 {
             System.out.println(11);
         }
     }
-}
