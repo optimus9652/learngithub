@@ -10,8 +10,8 @@ class solution3 {
         }
         return "Hello, world";
     }
-    public String dot3() {
-        return "hell0, world";
+    public String dot4() {
+        return "hellop, world";
     }
    
 }
